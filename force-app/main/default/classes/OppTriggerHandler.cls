@@ -1,5 +1,6 @@
 public with sharing class OppTriggerHandler{
-    public OppTriggerHandlerMethod1(){
+    public Static void OppTriggerHandlerMethod1(){
         System.debug('Test Comments');
     }
+
 }
